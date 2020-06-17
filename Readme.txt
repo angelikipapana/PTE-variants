@@ -17,14 +17,16 @@ surrogates (randomizing the driving time series).
 All measures are computed using the k-nearest neighbors' (KNN) estimator 
 (Kraskov, A., Stögbauer, H., & Grassberger, P. (2004). Estimating mutual information. Physical review E, 69(6), 066138).
 
+Please cite the following paper if you use the corresponding code for estimating Partial Transfer Entropy based on the KNN estimator:
+A. Papana, D. Kugiumtzis and P.G. Larsson. Detection of Direct Causal Effects and Application to Epileptic Electroencephalogram 
+Analysis. International Journal of Bifurcation and Chaos, 22 (9), 1250222, 2012.
 
 The auxiliary codes are necessary to run the above matlab functions.
 
-The descripition of the PTE variants can be found in;
-
+The descripition of the PTE variants can be found in:
 A. Papana, A. Papana-Dagiasis, E. Siggiridou. Shortcomings of transfer entropy and partial transfer 
 entropy: Extending them to escape the curse of dimensionality. 
 https://arxiv.org/abs/2004.11760
- 
-Please use the above reference if these codes are used for reported results.
+
+Please use the above reference if the codes are used for reported results. 
  
