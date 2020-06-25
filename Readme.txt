@@ -25,8 +25,7 @@ The auxiliary codes are necessary to run the above matlab functions.
 
 The descripition of the PTE variants can be found in:
 A. Papana, A. Papana-Dagiasis, E. Siggiridou. Shortcomings of transfer entropy and partial transfer 
-entropy: Extending them to escape the curse of dimensionality. 
-https://arxiv.org/abs/2004.11760
+entropy: Extending them to escape the curse of dimensionality, to appear in International Journal of Bifurcation and Chaos.
 
 Please use the above reference if the codes are used for reported results. 
  
